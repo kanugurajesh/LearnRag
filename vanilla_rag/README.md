@@ -21,7 +21,7 @@ A simple and straightforward implementation of a Retrieval-Augmented Generation 
 
 1. Install required Python packages:
 ```bash
-pip install ollama qdrant-client unstructured
+pip install ollama qdrant-client unstructured[all-docs]
 ```
 
 2. Pull required Ollama models:
