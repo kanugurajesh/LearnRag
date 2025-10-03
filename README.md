@@ -1,4 +1,4 @@
-# RAG Library
+# RAG
 
 ```
 
